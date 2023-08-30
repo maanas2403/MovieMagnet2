@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "D:\build\MovieMagnet\build\css\main.202ea8c6.css",
+    "main.js": "D:\build\MovieMagnet\build\js\main.fb5c8f82.js",
+    "static/media/image (2).png": "D:\build\MovieMagnet\build\media\image (2).906dab642edfe94b7d31.png",
+    "static/media/movie_analysis.pdf": "D:\build\MovieMagnet\build\media\movie_analysis.b3134738c52dc321b8e4.pdf",
+    "index.html": "D:\build\MovieMagnet\build\index.html",
+    "main.202ea8c6.css.map": "D:\build\MovieMagnet\build\css\main.202ea8c6.css.map",
+    "main.fb5c8f82.js.map": "D:\build\MovieMagnet\build\js\main.fb5c8f82.js.map"
+  },
+  "entrypoints": [
+    "D:\build\MovieMagnet\build\css\main.202ea8c6.css",
+    "D:\build\MovieMagnet\build\js\main.fb5c8f82.js"
+  ]
+}
